@@ -1,0 +1,2257 @@
+{
+  "timestamp": "2026-03-27T00:59:42.273740",
+  "domains": [
+    {
+      "name": "LABS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/LABS",
+      "skills_count": 9,
+      "description": "Experimental AI research, top-lab benchmarks, and frontier agentic explorations."
+    },
+    {
+      "name": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI",
+      "skills_count": 39,
+      "description": "Modern frontend development, design systems, and premium visual aesthetics."
+    },
+    {
+      "name": "INFRA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/INFRA",
+      "skills_count": 21,
+      "description": "Cloud infrastructure, Azure/AWS deployments, and environment orchestration."
+    },
+    {
+      "name": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS",
+      "skills_count": 57,
+      "description": "CI/CD automation, quality assurance, security auditing, and version control mastery."
+    },
+    {
+      "name": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND",
+      "skills_count": 31,
+      "description": "Server-side engineering, core language patterns (Go/Java/.NET/Rust), and API specifications."
+    },
+    {
+      "name": "AGENT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/AGENT",
+      "skills_count": 23,
+      "description": "Core intelligence, prompt engineering, and autonomous agent orchestration patterns."
+    },
+    {
+      "name": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP",
+      "skills_count": 38,
+      "description": "Model Context Protocol (MCP) servers, connectors, and tool-use extension patterns."
+    },
+    {
+      "name": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS",
+      "skills_count": 32,
+      "description": "Technical writing, authoring automation, and cross-format document processing."
+    },
+    {
+      "name": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT",
+      "skills_count": 39,
+      "description": "Product strategy, PRD generation, GTM orchestration, and requirement engineering."
+    },
+    {
+      "name": "MOBILE",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MOBILE",
+      "skills_count": 11,
+      "description": "Native iOS, VisionOS, Flutter, and cross-platform mobile HIG excellence."
+    },
+    {
+      "name": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS",
+      "skills_count": 42,
+      "description": "Operating system lifecycle, core terminal utilities, and developer productivity shortcuts."
+    },
+    {
+      "name": "DATA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DATA",
+      "skills_count": 21,
+      "description": "Data modeling, big data pipelines, and business intelligence optimization."
+    }
+  ],
+  "skills": [
+    {
+      "name": "autoresearch",
+      "domain": "LABS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/LABS/autoresearch",
+      "last_audit": "2026-03-27T00:59:42.274455"
+    },
+    {
+      "name": "template-skill",
+      "domain": "LABS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/LABS/template-skill",
+      "last_audit": "2026-03-27T00:59:42.274460"
+    },
+    {
+      "name": "speaking-like-pirate",
+      "domain": "LABS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/LABS/speaking-like-pirate",
+      "last_audit": "2026-03-27T00:59:42.274461"
+    },
+    {
+      "name": "streaming-gemini-live",
+      "domain": "LABS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/LABS/streaming-gemini-live",
+      "last_audit": "2026-03-27T00:59:42.274462"
+    },
+    {
+      "name": "google-labs-code",
+      "domain": "LABS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/LABS/google-labs-code",
+      "last_audit": "2026-03-27T00:59:42.274464"
+    },
+    {
+      "name": "google-gemini",
+      "domain": "LABS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/LABS/google-gemini",
+      "last_audit": "2026-03-27T00:59:42.274465"
+    },
+    {
+      "name": "official-labs-skill-scout",
+      "domain": "LABS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/LABS/official-labs-skill-scout",
+      "last_audit": "2026-03-27T00:59:42.274466"
+    },
+    {
+      "name": "vercel-labs",
+      "domain": "LABS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/LABS/vercel-labs",
+      "last_audit": "2026-03-27T00:59:42.274467"
+    },
+    {
+      "name": "nano-banana-pro-openrouter",
+      "domain": "LABS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/LABS/nano-banana-pro-openrouter",
+      "last_audit": "2026-03-27T00:59:42.274468"
+    },
+    {
+      "name": "plantuml-ascii",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/plantuml-ascii",
+      "last_audit": "2026-03-27T00:59:42.274924"
+    },
+    {
+      "name": "web-coder",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/web-coder",
+      "last_audit": "2026-03-27T00:59:42.274926"
+    },
+    {
+      "name": "image-manipulation-image-magick",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/image-manipulation-image-magick",
+      "last_audit": "2026-03-27T00:59:42.274928"
+    },
+    {
+      "name": "mermaid-diagrams",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/mermaid-diagrams",
+      "last_audit": "2026-03-27T00:59:42.274929"
+    },
+    {
+      "name": "vscode-ext-localization",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/vscode-ext-localization",
+      "last_audit": "2026-03-27T00:59:42.274930"
+    },
+    {
+      "name": "advanced-a11y-audit",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/advanced-a11y-audit",
+      "last_audit": "2026-03-27T00:59:42.274931"
+    },
+    {
+      "name": "theme-factory",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/theme-factory",
+      "last_audit": "2026-03-27T00:59:42.274932"
+    },
+    {
+      "name": "meme-factory",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/meme-factory",
+      "last_audit": "2026-03-27T00:59:42.274934"
+    },
+    {
+      "name": "web-performance-optimization",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/web-performance-optimization",
+      "last_audit": "2026-03-27T00:59:42.274935"
+    },
+    {
+      "name": "publish-to-pages",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/publish-to-pages",
+      "last_audit": "2026-03-27T00:59:42.274936"
+    },
+    {
+      "name": "napkin",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/napkin",
+      "last_audit": "2026-03-27T00:59:42.274937"
+    },
+    {
+      "name": "web-design-reviewer",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/web-design-reviewer",
+      "last_audit": "2026-03-27T00:59:42.274938"
+    },
+    {
+      "name": "excalidraw",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/excalidraw",
+      "last_audit": "2026-03-27T00:59:42.274939"
+    },
+    {
+      "name": "marp-slide",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/marp-slide",
+      "last_audit": "2026-03-27T00:59:42.274940"
+    },
+    {
+      "name": "ui-engineering",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/ui-engineering",
+      "last_audit": "2026-03-27T00:59:42.274942"
+    },
+    {
+      "name": "game-engine",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/game-engine",
+      "last_audit": "2026-03-27T00:59:42.274943"
+    },
+    {
+      "name": "algorithmic-art",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/algorithmic-art",
+      "last_audit": "2026-03-27T00:59:42.274944"
+    },
+    {
+      "name": "premium-frontend-ui",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/premium-frontend-ui",
+      "last_audit": "2026-03-27T00:59:42.274945"
+    },
+    {
+      "name": "react-useeffect",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/react-useeffect",
+      "last_audit": "2026-03-27T00:59:42.274946"
+    },
+    {
+      "name": "vscode-ext-commands",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/vscode-ext-commands",
+      "last_audit": "2026-03-27T00:59:42.274947"
+    },
+    {
+      "name": "threejs-animation",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/threejs-animation",
+      "last_audit": "2026-03-27T00:59:42.274948"
+    },
+    {
+      "name": "react-dev",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/react-dev",
+      "last_audit": "2026-03-27T00:59:42.274949"
+    },
+    {
+      "name": "legacy-circuit-mockups",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/legacy-circuit-mockups",
+      "last_audit": "2026-03-27T00:59:42.274950"
+    },
+    {
+      "name": "canvas-design",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/canvas-design",
+      "last_audit": "2026-03-27T00:59:42.274951"
+    },
+    {
+      "name": "editorconfig",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/editorconfig",
+      "last_audit": "2026-03-27T00:59:42.274952"
+    },
+    {
+      "name": "design-system-starter",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/design-system-starter",
+      "last_audit": "2026-03-27T00:59:42.274954"
+    },
+    {
+      "name": "penpot-uiux-design",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/penpot-uiux-design",
+      "last_audit": "2026-03-27T00:59:42.274955"
+    },
+    {
+      "name": "mui",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/mui",
+      "last_audit": "2026-03-27T00:59:42.274956"
+    },
+    {
+      "name": "slack-gif-creator",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/slack-gif-creator",
+      "last_audit": "2026-03-27T00:59:42.274957"
+    },
+    {
+      "name": "threejs-fundamentals",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/threejs-fundamentals",
+      "last_audit": "2026-03-27T00:59:42.274958"
+    },
+    {
+      "name": "next-intl-add-language",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/next-intl-add-language",
+      "last_audit": "2026-03-27T00:59:42.274959"
+    },
+    {
+      "name": "brand-identity",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/brand-identity",
+      "last_audit": "2026-03-27T00:59:42.274960"
+    },
+    {
+      "name": "frontend-design",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/frontend-design",
+      "last_audit": "2026-03-27T00:59:42.274961"
+    },
+    {
+      "name": "c4-architecture",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/c4-architecture",
+      "last_audit": "2026-03-27T00:59:42.274962"
+    },
+    {
+      "name": "draw-io",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/draw-io",
+      "last_audit": "2026-03-27T00:59:42.274963"
+    },
+    {
+      "name": "framer-motion",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/framer-motion",
+      "last_audit": "2026-03-27T00:59:42.274965"
+    },
+    {
+      "name": "brand-guidelines",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/brand-guidelines",
+      "last_audit": "2026-03-27T00:59:42.274966"
+    },
+    {
+      "name": "excalidraw-diagram-generator",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/excalidraw-diagram-generator",
+      "last_audit": "2026-03-27T00:59:42.274967"
+    },
+    {
+      "name": "web-artifacts-builder",
+      "domain": "UI",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/UI/web-artifacts-builder",
+      "last_audit": "2026-03-27T00:59:42.274968"
+    },
+    {
+      "name": "azure-architecture-autopilot",
+      "domain": "INFRA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/INFRA/azure-architecture-autopilot",
+      "last_audit": "2026-03-27T00:59:42.275396"
+    },
+    {
+      "name": "azure-role-selector",
+      "domain": "INFRA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/INFRA/azure-role-selector",
+      "last_audit": "2026-03-27T00:59:42.275398"
+    },
+    {
+      "name": "azure-pricing",
+      "domain": "INFRA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/INFRA/azure-pricing",
+      "last_audit": "2026-03-27T00:59:42.275400"
+    },
+    {
+      "name": "update-avm-modules-in-bicep",
+      "domain": "INFRA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/INFRA/update-avm-modules-in-bicep",
+      "last_audit": "2026-03-27T00:59:42.275401"
+    },
+    {
+      "name": "multi-stage-dockerfile",
+      "domain": "INFRA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/INFRA/multi-stage-dockerfile",
+      "last_audit": "2026-03-27T00:59:42.275402"
+    },
+    {
+      "name": "aws-cdk-python-setup",
+      "domain": "INFRA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/INFRA/aws-cdk-python-setup",
+      "last_audit": "2026-03-27T00:59:42.275403"
+    },
+    {
+      "name": "microsoft-docs",
+      "domain": "INFRA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/INFRA/microsoft-docs",
+      "last_audit": "2026-03-27T00:59:42.275404"
+    },
+    {
+      "name": "azure-resource-health-diagnose",
+      "domain": "INFRA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/INFRA/azure-resource-health-diagnose",
+      "last_audit": "2026-03-27T00:59:42.275405"
+    },
+    {
+      "name": "power-apps-code-app-scaffold",
+      "domain": "INFRA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/INFRA/power-apps-code-app-scaffold",
+      "last_audit": "2026-03-27T00:59:42.275407"
+    },
+    {
+      "name": "azure-devops-cli",
+      "domain": "INFRA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/INFRA/azure-devops-cli",
+      "last_audit": "2026-03-27T00:59:42.275408"
+    },
+    {
+      "name": "aspire",
+      "domain": "INFRA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/INFRA/aspire",
+      "last_audit": "2026-03-27T00:59:42.275409"
+    },
+    {
+      "name": "import-infrastructure-as-code",
+      "domain": "INFRA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/INFRA/import-infrastructure-as-code",
+      "last_audit": "2026-03-27T00:59:42.275410"
+    },
+    {
+      "name": "az-cost-optimize",
+      "domain": "INFRA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/INFRA/az-cost-optimize",
+      "last_audit": "2026-03-27T00:59:42.275411"
+    },
+    {
+      "name": "cloud-design-patterns",
+      "domain": "INFRA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/INFRA/cloud-design-patterns",
+      "last_audit": "2026-03-27T00:59:42.275412"
+    },
+    {
+      "name": "kubernetes-cluster-management",
+      "domain": "INFRA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/INFRA/kubernetes-cluster-management",
+      "last_audit": "2026-03-27T00:59:42.275413"
+    },
+    {
+      "name": "azure-deployment-preflight",
+      "domain": "INFRA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/INFRA/azure-deployment-preflight",
+      "last_audit": "2026-03-27T00:59:42.275414"
+    },
+    {
+      "name": "containerize-aspnet-framework",
+      "domain": "INFRA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/INFRA/containerize-aspnet-framework",
+      "last_audit": "2026-03-27T00:59:42.275415"
+    },
+    {
+      "name": "terraform-azurerm-set-diff-analyzer",
+      "domain": "INFRA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/INFRA/terraform-azurerm-set-diff-analyzer",
+      "last_audit": "2026-03-27T00:59:42.275417"
+    },
+    {
+      "name": "containerize-aspnetcore",
+      "domain": "INFRA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/INFRA/containerize-aspnetcore",
+      "last_audit": "2026-03-27T00:59:42.275418"
+    },
+    {
+      "name": "azure-resource-visualizer",
+      "domain": "INFRA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/INFRA/azure-resource-visualizer",
+      "last_audit": "2026-03-27T00:59:42.275419"
+    },
+    {
+      "name": "azure-static-web-apps",
+      "domain": "INFRA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/INFRA/azure-static-web-apps",
+      "last_audit": "2026-03-27T00:59:42.275420"
+    },
+    {
+      "name": "reviewing-oracle-to-postgres-migration",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/reviewing-oracle-to-postgres-migration",
+      "last_audit": "2026-03-27T00:59:42.275960"
+    },
+    {
+      "name": "git-commit",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/git-commit",
+      "last_audit": "2026-03-27T00:59:42.275962"
+    },
+    {
+      "name": "unit-test-vue-pinia",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/unit-test-vue-pinia",
+      "last_audit": "2026-03-27T00:59:42.275963"
+    },
+    {
+      "name": "test-driven-development",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/test-driven-development",
+      "last_audit": "2026-03-27T00:59:42.275964"
+    },
+    {
+      "name": "write-coding-standards-from-file",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/write-coding-standards-from-file",
+      "last_audit": "2026-03-27T00:59:42.275965"
+    },
+    {
+      "name": "creating-oracle-to-postgres-migration-integration-tests",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/creating-oracle-to-postgres-migration-integration-tests",
+      "last_audit": "2026-03-27T00:59:42.275966"
+    },
+    {
+      "name": "systematic-debugging",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/systematic-debugging",
+      "last_audit": "2026-03-27T00:59:42.275967"
+    },
+    {
+      "name": "appinsights-instrumentation",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/appinsights-instrumentation",
+      "last_audit": "2026-03-27T00:59:42.275968"
+    },
+    {
+      "name": "create-github-issues-feature-from-implementation-plan",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/create-github-issues-feature-from-implementation-plan",
+      "last_audit": "2026-03-27T00:59:42.275970"
+    },
+    {
+      "name": "devops-rollout-plan",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/devops-rollout-plan",
+      "last_audit": "2026-03-27T00:59:42.275971"
+    },
+    {
+      "name": "playwright-explore-website",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/playwright-explore-website",
+      "last_audit": "2026-03-27T00:59:42.275972"
+    },
+    {
+      "name": "gh-cli",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/gh-cli",
+      "last_audit": "2026-03-27T00:59:42.275973"
+    },
+    {
+      "name": "my-issues",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/my-issues",
+      "last_audit": "2026-03-27T00:59:42.275974"
+    },
+    {
+      "name": "spring-boot-testing",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/spring-boot-testing",
+      "last_audit": "2026-03-27T00:59:42.275975"
+    },
+    {
+      "name": "playwright-generate-test",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/playwright-generate-test",
+      "last_audit": "2026-03-27T00:59:42.275976"
+    },
+    {
+      "name": "scaffolding-oracle-to-postgres-migration-test-project",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/scaffolding-oracle-to-postgres-migration-test-project",
+      "last_audit": "2026-03-27T00:59:42.275978"
+    },
+    {
+      "name": "conventional-commit",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/conventional-commit",
+      "last_audit": "2026-03-27T00:59:42.275979"
+    },
+    {
+      "name": "pytest-coverage",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/pytest-coverage",
+      "last_audit": "2026-03-27T00:59:42.275980"
+    },
+    {
+      "name": "finishing-a-development-branch",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/finishing-a-development-branch",
+      "last_audit": "2026-03-27T00:59:42.275981"
+    },
+    {
+      "name": "javascript-typescript-jest",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/javascript-typescript-jest",
+      "last_audit": "2026-03-27T00:59:42.275982"
+    },
+    {
+      "name": "refactor-method-complexity-reduce",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/refactor-method-complexity-reduce",
+      "last_audit": "2026-03-27T00:59:42.275983"
+    },
+    {
+      "name": "creating-oracle-to-postgres-master-migration-plan",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/creating-oracle-to-postgres-master-migration-plan",
+      "last_audit": "2026-03-27T00:59:42.275985"
+    },
+    {
+      "name": "issue-fields-migration",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/issue-fields-migration",
+      "last_audit": "2026-03-27T00:59:42.275987"
+    },
+    {
+      "name": "polyglot-test-agent",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/polyglot-test-agent",
+      "last_audit": "2026-03-27T00:59:42.275988"
+    },
+    {
+      "name": "refactor-plan",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/refactor-plan",
+      "last_audit": "2026-03-27T00:59:42.275989"
+    },
+    {
+      "name": "create-github-issue-feature-from-specification",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/create-github-issue-feature-from-specification",
+      "last_audit": "2026-03-27T00:59:42.275990"
+    },
+    {
+      "name": "qa-testing",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/qa-testing",
+      "last_audit": "2026-03-27T00:59:42.275991"
+    },
+    {
+      "name": "my-pull-requests",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/my-pull-requests",
+      "last_audit": "2026-03-27T00:59:42.275992"
+    },
+    {
+      "name": "codeql",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/codeql",
+      "last_audit": "2026-03-27T00:59:42.275994"
+    },
+    {
+      "name": "commit-work",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/commit-work",
+      "last_audit": "2026-03-27T00:59:42.275995"
+    },
+    {
+      "name": "creating-oracle-to-postgres-migration-bug-report",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/creating-oracle-to-postgres-migration-bug-report",
+      "last_audit": "2026-03-27T00:59:42.275996"
+    },
+    {
+      "name": "reviewing-code-automated",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/reviewing-code-automated",
+      "last_audit": "2026-03-27T00:59:42.275997"
+    },
+    {
+      "name": "migrating-oracle-to-postgres-stored-procedures",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/migrating-oracle-to-postgres-stored-procedures",
+      "last_audit": "2026-03-27T00:59:42.275998"
+    },
+    {
+      "name": "github-copilot-starter",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/github-copilot-starter",
+      "last_audit": "2026-03-27T00:59:42.275999"
+    },
+    {
+      "name": "github-issues",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/github-issues",
+      "last_audit": "2026-03-27T00:59:42.276000"
+    },
+    {
+      "name": "make-repo-contribution",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/make-repo-contribution",
+      "last_audit": "2026-03-27T00:59:42.276001"
+    },
+    {
+      "name": "dependency-updater",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/dependency-updater",
+      "last_audit": "2026-03-27T00:59:42.276002"
+    },
+    {
+      "name": "planning-oracle-to-postgres-migration-integration-testing",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/planning-oracle-to-postgres-migration-integration-testing",
+      "last_audit": "2026-03-27T00:59:42.276003"
+    },
+    {
+      "name": "webapp-testing",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/webapp-testing",
+      "last_audit": "2026-03-27T00:59:42.276004"
+    },
+    {
+      "name": "devops-infrastructure",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/devops-infrastructure",
+      "last_audit": "2026-03-27T00:59:42.276005"
+    },
+    {
+      "name": "requesting-code-review",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/requesting-code-review",
+      "last_audit": "2026-03-27T00:59:42.276006"
+    },
+    {
+      "name": "master-qa-debugger",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/master-qa-debugger",
+      "last_audit": "2026-03-27T00:59:42.276007"
+    },
+    {
+      "name": "playwright-automation-fill-in-form",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/playwright-automation-fill-in-form",
+      "last_audit": "2026-03-27T00:59:42.276008"
+    },
+    {
+      "name": "receiving-code-review",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/receiving-code-review",
+      "last_audit": "2026-03-27T00:59:42.276009"
+    },
+    {
+      "name": "git-flow-branch-creator",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/git-flow-branch-creator",
+      "last_audit": "2026-03-27T00:59:42.276010"
+    },
+    {
+      "name": "sandbox-npm-install",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/sandbox-npm-install",
+      "last_audit": "2026-03-27T00:59:42.276011"
+    },
+    {
+      "name": "automate-this",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/automate-this",
+      "last_audit": "2026-03-27T00:59:42.276012"
+    },
+    {
+      "name": "advanced-security-auditing",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/advanced-security-auditing",
+      "last_audit": "2026-03-27T00:59:42.276013"
+    },
+    {
+      "name": "verification-before-completion",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/verification-before-completion",
+      "last_audit": "2026-03-27T00:59:42.276014"
+    },
+    {
+      "name": "scoutqa-test",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/scoutqa-test",
+      "last_audit": "2026-03-27T00:59:42.276015"
+    },
+    {
+      "name": "qa-test-planner",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/qa-test-planner",
+      "last_audit": "2026-03-27T00:59:42.276016"
+    },
+    {
+      "name": "review-and-refactor",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/review-and-refactor",
+      "last_audit": "2026-03-27T00:59:42.276017"
+    },
+    {
+      "name": "refactor",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/refactor",
+      "last_audit": "2026-03-27T00:59:42.276018"
+    },
+    {
+      "name": "quality-playbook",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/quality-playbook",
+      "last_audit": "2026-03-27T00:59:42.276019"
+    },
+    {
+      "name": "secret-scanning",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/secret-scanning",
+      "last_audit": "2026-03-27T00:59:42.276020"
+    },
+    {
+      "name": "dependabot",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/dependabot",
+      "last_audit": "2026-03-27T00:59:42.276021"
+    },
+    {
+      "name": "create-github-issues-for-unmet-specification-requirements",
+      "domain": "DEVOPS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DEVOPS/create-github-issues-for-unmet-specification-requirements",
+      "last_audit": "2026-03-27T00:59:42.276022"
+    },
+    {
+      "name": "openapi-to-application-code",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/openapi-to-application-code",
+      "last_audit": "2026-03-27T00:59:42.276453"
+    },
+    {
+      "name": "aspnet-minimal-api-openapi",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/aspnet-minimal-api-openapi",
+      "last_audit": "2026-03-27T00:59:42.276454"
+    },
+    {
+      "name": "frontend-to-backend-requirements",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/frontend-to-backend-requirements",
+      "last_audit": "2026-03-27T00:59:42.276455"
+    },
+    {
+      "name": "dotnet-best-practices",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/dotnet-best-practices",
+      "last_audit": "2026-03-27T00:59:42.276457"
+    },
+    {
+      "name": "wagmi",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/wagmi",
+      "last_audit": "2026-03-27T00:59:42.276458"
+    },
+    {
+      "name": "openapi-to-typescript",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/openapi-to-typescript",
+      "last_audit": "2026-03-27T00:59:42.276459"
+    },
+    {
+      "name": "csharp-nunit",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/csharp-nunit",
+      "last_audit": "2026-03-27T00:59:42.276460"
+    },
+    {
+      "name": "dotnet-upgrade",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/dotnet-upgrade",
+      "last_audit": "2026-03-27T00:59:42.276461"
+    },
+    {
+      "name": "csharp-xunit",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/csharp-xunit",
+      "last_audit": "2026-03-27T00:59:42.276462"
+    },
+    {
+      "name": "rust-systems-programming",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/rust-systems-programming",
+      "last_audit": "2026-03-27T00:59:42.276463"
+    },
+    {
+      "name": "java-refactoring-extract-method",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/java-refactoring-extract-method",
+      "last_audit": "2026-03-27T00:59:42.276464"
+    },
+    {
+      "name": "go-backend-engineering",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/go-backend-engineering",
+      "last_audit": "2026-03-27T00:59:42.276469"
+    },
+    {
+      "name": "create-spring-boot-kotlin-project",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/create-spring-boot-kotlin-project",
+      "last_audit": "2026-03-27T00:59:42.276470"
+    },
+    {
+      "name": "nuget-manager",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/nuget-manager",
+      "last_audit": "2026-03-27T00:59:42.276471"
+    },
+    {
+      "name": "csharp-async",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/csharp-async",
+      "last_audit": "2026-03-27T00:59:42.276472"
+    },
+    {
+      "name": "java-springboot",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/java-springboot",
+      "last_audit": "2026-03-27T00:59:42.276473"
+    },
+    {
+      "name": "kotlin-springboot",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/kotlin-springboot",
+      "last_audit": "2026-03-27T00:59:42.276474"
+    },
+    {
+      "name": "csharp-docs",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/csharp-docs",
+      "last_audit": "2026-03-27T00:59:42.276475"
+    },
+    {
+      "name": "csharp-tunit",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/csharp-tunit",
+      "last_audit": "2026-03-27T00:59:42.276476"
+    },
+    {
+      "name": "viem",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/viem",
+      "last_audit": "2026-03-27T00:59:42.276477"
+    },
+    {
+      "name": "backend-architecture",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/backend-architecture",
+      "last_audit": "2026-03-27T00:59:42.276478"
+    },
+    {
+      "name": "create-spring-boot-java-project",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/create-spring-boot-java-project",
+      "last_audit": "2026-03-27T00:59:42.276479"
+    },
+    {
+      "name": "oo-component-documentation",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/oo-component-documentation",
+      "last_audit": "2026-03-27T00:59:42.276480"
+    },
+    {
+      "name": "java-refactoring-remove-parameter",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/java-refactoring-remove-parameter",
+      "last_audit": "2026-03-27T00:59:42.276482"
+    },
+    {
+      "name": "java-add-graalvm-native-image-support",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/java-add-graalvm-native-image-support",
+      "last_audit": "2026-03-27T00:59:42.276483"
+    },
+    {
+      "name": "java-junit",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/java-junit",
+      "last_audit": "2026-03-27T00:59:42.276484"
+    },
+    {
+      "name": "java-docs",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/java-docs",
+      "last_audit": "2026-03-27T00:59:42.276485"
+    },
+    {
+      "name": "java-mcp-server-generator",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/java-mcp-server-generator",
+      "last_audit": "2026-03-27T00:59:42.276486"
+    },
+    {
+      "name": "dotnet-design-pattern-review",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/dotnet-design-pattern-review",
+      "last_audit": "2026-03-27T00:59:42.276487"
+    },
+    {
+      "name": "csharp-mstest",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/csharp-mstest",
+      "last_audit": "2026-03-27T00:59:42.276487"
+    },
+    {
+      "name": "dotnet-timezone",
+      "domain": "BACKEND",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/BACKEND/dotnet-timezone",
+      "last_audit": "2026-03-27T00:59:42.276488"
+    },
+    {
+      "name": "semantic-kernel",
+      "domain": "AGENT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/AGENT/semantic-kernel",
+      "last_audit": "2026-03-27T00:59:42.276806"
+    },
+    {
+      "name": "model-recommendation",
+      "domain": "AGENT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/AGENT/model-recommendation",
+      "last_audit": "2026-03-27T00:59:42.276808"
+    },
+    {
+      "name": "agentic-eval",
+      "domain": "AGENT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/AGENT/agentic-eval",
+      "last_audit": "2026-03-27T00:59:42.276809"
+    },
+    {
+      "name": "what-context-needed",
+      "domain": "AGENT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/AGENT/what-context-needed",
+      "last_audit": "2026-03-27T00:59:42.276810"
+    },
+    {
+      "name": "boost-prompt",
+      "domain": "AGENT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/AGENT/boost-prompt",
+      "last_audit": "2026-03-27T00:59:42.276811"
+    },
+    {
+      "name": "gemini",
+      "domain": "AGENT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/AGENT/gemini",
+      "last_audit": "2026-03-27T00:59:42.276812"
+    },
+    {
+      "name": "blast-protocol",
+      "domain": "AGENT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/AGENT/blast-protocol",
+      "last_audit": "2026-03-27T00:59:42.276813"
+    },
+    {
+      "name": "finalize-agent-prompt",
+      "domain": "AGENT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/AGENT/finalize-agent-prompt",
+      "last_audit": "2026-03-27T00:59:42.276814"
+    },
+    {
+      "name": "using-superpowers",
+      "domain": "AGENT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/AGENT/using-superpowers",
+      "last_audit": "2026-03-27T00:59:42.276815"
+    },
+    {
+      "name": "dispatching-parallel-agents",
+      "domain": "AGENT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/AGENT/dispatching-parallel-agents",
+      "last_audit": "2026-03-27T00:59:42.276817"
+    },
+    {
+      "name": "agent-md-refactor",
+      "domain": "AGENT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/AGENT/agent-md-refactor",
+      "last_audit": "2026-03-27T00:59:42.276818"
+    },
+    {
+      "name": "claude-api",
+      "domain": "AGENT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/AGENT/claude-api",
+      "last_audit": "2026-03-27T00:59:42.276819"
+    },
+    {
+      "name": "quasi-coder",
+      "domain": "AGENT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/AGENT/quasi-coder",
+      "last_audit": "2026-03-27T00:59:42.276820"
+    },
+    {
+      "name": "first-ask",
+      "domain": "AGENT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/AGENT/first-ask",
+      "last_audit": "2026-03-27T00:59:42.276822"
+    },
+    {
+      "name": "structured-autonomy-generate",
+      "domain": "AGENT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/AGENT/structured-autonomy-generate",
+      "last_audit": "2026-03-27T00:59:42.276823"
+    },
+    {
+      "name": "ai-prompt-engineering-safety-review",
+      "domain": "AGENT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/AGENT/ai-prompt-engineering-safety-review",
+      "last_audit": "2026-03-27T00:59:42.276824"
+    },
+    {
+      "name": "doublecheck",
+      "domain": "AGENT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/AGENT/doublecheck",
+      "last_audit": "2026-03-27T00:59:42.276826"
+    },
+    {
+      "name": "structured-autonomy-implement",
+      "domain": "AGENT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/AGENT/structured-autonomy-implement",
+      "last_audit": "2026-03-27T00:59:42.276827"
+    },
+    {
+      "name": "eval-driven-dev",
+      "domain": "AGENT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/AGENT/eval-driven-dev",
+      "last_audit": "2026-03-27T00:59:42.276828"
+    },
+    {
+      "name": "prompt-builder",
+      "domain": "AGENT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/AGENT/prompt-builder",
+      "last_audit": "2026-03-27T00:59:42.276829"
+    },
+    {
+      "name": "gepetto",
+      "domain": "AGENT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/AGENT/gepetto",
+      "last_audit": "2026-03-27T00:59:42.276830"
+    },
+    {
+      "name": "structured-autonomy-plan",
+      "domain": "AGENT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/AGENT/structured-autonomy-plan",
+      "last_audit": "2026-03-27T00:59:42.276831"
+    },
+    {
+      "name": "agent-governance",
+      "domain": "AGENT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/AGENT/agent-governance",
+      "last_audit": "2026-03-27T00:59:42.276833"
+    },
+    {
+      "name": "mcp-copilot-studio-server-generator",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/mcp-copilot-studio-server-generator",
+      "last_audit": "2026-03-27T00:59:42.277308"
+    },
+    {
+      "name": "go-mcp-server-generator",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/go-mcp-server-generator",
+      "last_audit": "2026-03-27T00:59:42.277311"
+    },
+    {
+      "name": "plugin-forge",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/plugin-forge",
+      "last_audit": "2026-03-27T00:59:42.277313"
+    },
+    {
+      "name": "python-mcp-server-generator",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/python-mcp-server-generator",
+      "last_audit": "2026-03-27T00:59:42.277314"
+    },
+    {
+      "name": "typescript-mcp-server-generator",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/typescript-mcp-server-generator",
+      "last_audit": "2026-03-27T00:59:42.277315"
+    },
+    {
+      "name": "rust-mcp-server-generator",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/rust-mcp-server-generator",
+      "last_audit": "2026-03-27T00:59:42.277316"
+    },
+    {
+      "name": "flowstudio-power-automate-mcp",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/flowstudio-power-automate-mcp",
+      "last_audit": "2026-03-27T00:59:42.277319"
+    },
+    {
+      "name": "microsoft-agent-framework",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/microsoft-agent-framework",
+      "last_audit": "2026-03-27T00:59:42.277320"
+    },
+    {
+      "name": "swift-mcp-server-generator",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/swift-mcp-server-generator",
+      "last_audit": "2026-03-27T00:59:42.277321"
+    },
+    {
+      "name": "csharp-mcp-server-generator",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/csharp-mcp-server-generator",
+      "last_audit": "2026-03-27T00:59:42.277322"
+    },
+    {
+      "name": "datadog-cli",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/datadog-cli",
+      "last_audit": "2026-03-27T00:59:42.277323"
+    },
+    {
+      "name": "typespec-create-api-plugin",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/typespec-create-api-plugin",
+      "last_audit": "2026-03-27T00:59:42.277324"
+    },
+    {
+      "name": "copilot-spaces",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/copilot-spaces",
+      "last_audit": "2026-03-27T00:59:42.277326"
+    },
+    {
+      "name": "declarative-agents",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/declarative-agents",
+      "last_audit": "2026-03-27T00:59:42.277327"
+    },
+    {
+      "name": "power-platform-mcp-connector-suite",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/power-platform-mcp-connector-suite",
+      "last_audit": "2026-03-27T00:59:42.277328"
+    },
+    {
+      "name": "typespec-create-agent",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/typespec-create-agent",
+      "last_audit": "2026-03-27T00:59:42.277335"
+    },
+    {
+      "name": "mcp-cli",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/mcp-cli",
+      "last_audit": "2026-03-27T00:59:42.277336"
+    },
+    {
+      "name": "command-creator",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/command-creator",
+      "last_audit": "2026-03-27T00:59:42.277337"
+    },
+    {
+      "name": "mcp-create-adaptive-cards",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/mcp-create-adaptive-cards",
+      "last_audit": "2026-03-27T00:59:42.277338"
+    },
+    {
+      "name": "copilot-sdk",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/copilot-sdk",
+      "last_audit": "2026-03-27T00:59:42.277339"
+    },
+    {
+      "name": "mcp-create-declarative-agent",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/mcp-create-declarative-agent",
+      "last_audit": "2026-03-27T00:59:42.277340"
+    },
+    {
+      "name": "workiq-copilot",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/workiq-copilot",
+      "last_audit": "2026-03-27T00:59:42.277342"
+    },
+    {
+      "name": "php-mcp-server-generator",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/php-mcp-server-generator",
+      "last_audit": "2026-03-27T00:59:42.277343"
+    },
+    {
+      "name": "perplexity",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/perplexity",
+      "last_audit": "2026-03-27T00:59:42.277344"
+    },
+    {
+      "name": "mcp-use",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/mcp-use",
+      "last_audit": "2026-03-27T00:59:42.277346"
+    },
+    {
+      "name": "jira",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/jira",
+      "last_audit": "2026-03-27T00:59:42.277347"
+    },
+    {
+      "name": "chrome-devtools",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/chrome-devtools",
+      "last_audit": "2026-03-27T00:59:42.277348"
+    },
+    {
+      "name": "fluentui-blazor",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/fluentui-blazor",
+      "last_audit": "2026-03-27T00:59:42.277349"
+    },
+    {
+      "name": "ruby-mcp-server-generator",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/ruby-mcp-server-generator",
+      "last_audit": "2026-03-27T00:59:42.277350"
+    },
+    {
+      "name": "kotlin-mcp-server-generator",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/kotlin-mcp-server-generator",
+      "last_audit": "2026-03-27T00:59:42.277351"
+    },
+    {
+      "name": "entra-agent-user",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/entra-agent-user",
+      "last_audit": "2026-03-27T00:59:42.277352"
+    },
+    {
+      "name": "flowstudio-power-automate-build",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/flowstudio-power-automate-build",
+      "last_audit": "2026-03-27T00:59:42.277353"
+    },
+    {
+      "name": "microsoft-skill-creator",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/microsoft-skill-creator",
+      "last_audit": "2026-03-27T00:59:42.277354"
+    },
+    {
+      "name": "flowstudio-power-automate-debug",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/flowstudio-power-automate-debug",
+      "last_audit": "2026-03-27T00:59:42.277355"
+    },
+    {
+      "name": "mcp-builder",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/mcp-builder",
+      "last_audit": "2026-03-27T00:59:42.277356"
+    },
+    {
+      "name": "mcp-deploy-manage-agents",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/mcp-deploy-manage-agents",
+      "last_audit": "2026-03-27T00:59:42.277357"
+    },
+    {
+      "name": "typespec-api-operations",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/typespec-api-operations",
+      "last_audit": "2026-03-27T00:59:42.277358"
+    },
+    {
+      "name": "copilot-usage-metrics",
+      "domain": "MCP",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MCP/copilot-usage-metrics",
+      "last_audit": "2026-03-27T00:59:42.277359"
+    },
+    {
+      "name": "create-github-pull-request-from-specification",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/create-github-pull-request-from-specification",
+      "last_audit": "2026-03-27T00:59:42.277684"
+    },
+    {
+      "name": "markdown-to-html",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/markdown-to-html",
+      "last_audit": "2026-03-27T00:59:42.277688"
+    },
+    {
+      "name": "mkdocs-translations",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/mkdocs-translations",
+      "last_audit": "2026-03-27T00:59:42.277690"
+    },
+    {
+      "name": "microsoft-code-reference",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/microsoft-code-reference",
+      "last_audit": "2026-03-27T00:59:42.277691"
+    },
+    {
+      "name": "doc-coauthoring",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/doc-coauthoring",
+      "last_audit": "2026-03-27T00:59:42.277693"
+    },
+    {
+      "name": "create-tldr-page",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/create-tldr-page",
+      "last_audit": "2026-03-27T00:59:42.277694"
+    },
+    {
+      "name": "readme-blueprint-generator",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/readme-blueprint-generator",
+      "last_audit": "2026-03-27T00:59:42.277695"
+    },
+    {
+      "name": "create-github-action-workflow-specification",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/create-github-action-workflow-specification",
+      "last_audit": "2026-03-27T00:59:42.277696"
+    },
+    {
+      "name": "create-readme",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/create-readme",
+      "last_audit": "2026-03-27T00:59:42.277697"
+    },
+    {
+      "name": "pdf",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/pdf",
+      "last_audit": "2026-03-27T00:59:42.277698"
+    },
+    {
+      "name": "meeting-minutes",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/meeting-minutes",
+      "last_audit": "2026-03-27T00:59:42.277699"
+    },
+    {
+      "name": "documentation-writer",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/documentation-writer",
+      "last_audit": "2026-03-27T00:59:42.277700"
+    },
+    {
+      "name": "update-markdown-file-index",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/update-markdown-file-index",
+      "last_audit": "2026-03-27T00:59:42.277702"
+    },
+    {
+      "name": "update-llms",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/update-llms",
+      "last_audit": "2026-03-27T00:59:42.277703"
+    },
+    {
+      "name": "convert-plaintext-to-md",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/convert-plaintext-to-md",
+      "last_audit": "2026-03-27T00:59:42.277704"
+    },
+    {
+      "name": "internal-comms",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/internal-comms",
+      "last_audit": "2026-03-27T00:59:42.277705"
+    },
+    {
+      "name": "create-agentsmd",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/create-agentsmd",
+      "last_audit": "2026-03-27T00:59:42.277706"
+    },
+    {
+      "name": "backend-to-frontend-handoff-docs",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/backend-to-frontend-handoff-docs",
+      "last_audit": "2026-03-27T00:59:42.277707"
+    },
+    {
+      "name": "web-to-markdown",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/web-to-markdown",
+      "last_audit": "2026-03-27T00:59:42.277709"
+    },
+    {
+      "name": "pptx",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/pptx",
+      "last_audit": "2026-03-27T00:59:42.277710"
+    },
+    {
+      "name": "create-technical-spike",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/create-technical-spike",
+      "last_audit": "2026-03-27T00:59:42.277711"
+    },
+    {
+      "name": "comment-code-generate-a-tutorial",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/comment-code-generate-a-tutorial",
+      "last_audit": "2026-03-27T00:59:42.277712"
+    },
+    {
+      "name": "create-architectural-decision-record",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/create-architectural-decision-record",
+      "last_audit": "2026-03-27T00:59:42.277713"
+    },
+    {
+      "name": "pdftk-server",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/pdftk-server",
+      "last_audit": "2026-03-27T00:59:42.277714"
+    },
+    {
+      "name": "writing-plans",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/writing-plans",
+      "last_audit": "2026-03-27T00:59:42.277715"
+    },
+    {
+      "name": "writing-clearly-and-concisely",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/writing-clearly-and-concisely",
+      "last_audit": "2026-03-27T00:59:42.277716"
+    },
+    {
+      "name": "create-llms",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/create-llms",
+      "last_audit": "2026-03-27T00:59:42.277717"
+    },
+    {
+      "name": "crafting-effective-readmes",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/crafting-effective-readmes",
+      "last_audit": "2026-03-27T00:59:42.277718"
+    },
+    {
+      "name": "writing-skills",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/writing-skills",
+      "last_audit": "2026-03-27T00:59:42.277720"
+    },
+    {
+      "name": "add-educational-comments",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/add-educational-comments",
+      "last_audit": "2026-03-27T00:59:42.277722"
+    },
+    {
+      "name": "docx",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/docx",
+      "last_audit": "2026-03-27T00:59:42.277723"
+    },
+    {
+      "name": "tldr-prompt",
+      "domain": "DOCS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DOCS/tldr-prompt",
+      "last_audit": "2026-03-27T00:59:42.277724"
+    },
+    {
+      "name": "update-specification",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/update-specification",
+      "last_audit": "2026-03-27T00:59:42.277963"
+    },
+    {
+      "name": "gtm-positioning-strategy",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/gtm-positioning-strategy",
+      "last_audit": "2026-03-27T00:59:42.277965"
+    },
+    {
+      "name": "professional-communication",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/professional-communication",
+      "last_audit": "2026-03-27T00:59:42.277966"
+    },
+    {
+      "name": "gtm-partnership-architecture",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/gtm-partnership-architecture",
+      "last_audit": "2026-03-27T00:59:42.277967"
+    },
+    {
+      "name": "breakdown-plan",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/breakdown-plan",
+      "last_audit": "2026-03-27T00:59:42.277968"
+    },
+    {
+      "name": "gtm-ai-gtm",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/gtm-ai-gtm",
+      "last_audit": "2026-03-27T00:59:42.277970"
+    },
+    {
+      "name": "update-implementation-plan",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/update-implementation-plan",
+      "last_audit": "2026-03-27T00:59:42.277971"
+    },
+    {
+      "name": "breakdown-feature-prd",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/breakdown-feature-prd",
+      "last_audit": "2026-03-27T00:59:42.277972"
+    },
+    {
+      "name": "user-research-methodology",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/user-research-methodology",
+      "last_audit": "2026-03-27T00:59:42.277973"
+    },
+    {
+      "name": "gtm-product-led-growth",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/gtm-product-led-growth",
+      "last_audit": "2026-03-27T00:59:42.277974"
+    },
+    {
+      "name": "breakdown-epic-pm",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/breakdown-epic-pm",
+      "last_audit": "2026-03-27T00:59:42.277975"
+    },
+    {
+      "name": "domain-name-brainstormer",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/domain-name-brainstormer",
+      "last_audit": "2026-03-27T00:59:42.277976"
+    },
+    {
+      "name": "gtm-developer-ecosystem",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/gtm-developer-ecosystem",
+      "last_audit": "2026-03-27T00:59:42.277977"
+    },
+    {
+      "name": "game-changing-features",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/game-changing-features",
+      "last_audit": "2026-03-27T00:59:42.277978"
+    },
+    {
+      "name": "create-implementation-plan",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/create-implementation-plan",
+      "last_audit": "2026-03-27T00:59:42.277979"
+    },
+    {
+      "name": "gtm-operating-cadence",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/gtm-operating-cadence",
+      "last_audit": "2026-03-27T00:59:42.277981"
+    },
+    {
+      "name": "breakdown-test",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/breakdown-test",
+      "last_audit": "2026-03-27T00:59:42.277982"
+    },
+    {
+      "name": "executing-plans",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/executing-plans",
+      "last_audit": "2026-03-27T00:59:42.277983"
+    },
+    {
+      "name": "gtm-board-and-investor-communication",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/gtm-board-and-investor-communication",
+      "last_audit": "2026-03-27T00:59:42.277984"
+    },
+    {
+      "name": "feedback-mastery",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/feedback-mastery",
+      "last_audit": "2026-03-27T00:59:42.277985"
+    },
+    {
+      "name": "gen-specs-as-issues",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/gen-specs-as-issues",
+      "last_audit": "2026-03-27T00:59:42.277986"
+    },
+    {
+      "name": "gtm-0-to-1-launch",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/gtm-0-to-1-launch",
+      "last_audit": "2026-03-27T00:59:42.277987"
+    },
+    {
+      "name": "gtm-enterprise-account-planning",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/gtm-enterprise-account-planning",
+      "last_audit": "2026-03-27T00:59:42.277988"
+    },
+    {
+      "name": "product-roles",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/product-roles",
+      "last_audit": "2026-03-27T00:59:42.277989"
+    },
+    {
+      "name": "brainstorming-ideas",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/brainstorming-ideas",
+      "last_audit": "2026-03-27T00:59:42.277990"
+    },
+    {
+      "name": "gtm-enterprise-onboarding",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/gtm-enterprise-onboarding",
+      "last_audit": "2026-03-27T00:59:42.277992"
+    },
+    {
+      "name": "gtm-technical-product-pricing",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/gtm-technical-product-pricing",
+      "last_audit": "2026-03-27T00:59:42.277993"
+    },
+    {
+      "name": "difficult-workplace-conversations",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/difficult-workplace-conversations",
+      "last_audit": "2026-03-27T00:59:42.277994"
+    },
+    {
+      "name": "brainstorming",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/brainstorming",
+      "last_audit": "2026-03-27T00:59:42.277995"
+    },
+    {
+      "name": "breakdown-feature-implementation",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/breakdown-feature-implementation",
+      "last_audit": "2026-03-27T00:59:42.277996"
+    },
+    {
+      "name": "prd",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/prd",
+      "last_audit": "2026-03-27T00:59:42.277997"
+    },
+    {
+      "name": "requirements-clarity",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/requirements-clarity",
+      "last_audit": "2026-03-27T00:59:42.277998"
+    },
+    {
+      "name": "pricing-psychology-strategy",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/pricing-psychology-strategy",
+      "last_audit": "2026-03-27T00:59:42.278000"
+    },
+    {
+      "name": "roundup-setup",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/roundup-setup",
+      "last_audit": "2026-03-27T00:59:42.278001"
+    },
+    {
+      "name": "breakdown-epic-arch",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/breakdown-epic-arch",
+      "last_audit": "2026-03-27T00:59:42.278002"
+    },
+    {
+      "name": "create-specification",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/create-specification",
+      "last_audit": "2026-03-27T00:59:42.278003"
+    },
+    {
+      "name": "plg-growth-loops",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/plg-growth-loops",
+      "last_audit": "2026-03-27T00:59:42.278005"
+    },
+    {
+      "name": "daily-meeting-update",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/daily-meeting-update",
+      "last_audit": "2026-03-27T00:59:42.278006"
+    },
+    {
+      "name": "roundup",
+      "domain": "PRODUCT",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/PRODUCT/roundup",
+      "last_audit": "2026-03-27T00:59:42.278007"
+    },
+    {
+      "name": "ios-live-activities",
+      "domain": "MOBILE",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MOBILE/ios-live-activities",
+      "last_audit": "2026-03-27T00:59:42.278769"
+    },
+    {
+      "name": "winui3-migration-guide",
+      "domain": "MOBILE",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MOBILE/winui3-migration-guide",
+      "last_audit": "2026-03-27T00:59:42.278770"
+    },
+    {
+      "name": "mobile-ios-design",
+      "domain": "MOBILE",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MOBILE/mobile-ios-design",
+      "last_audit": "2026-03-27T00:59:42.278772"
+    },
+    {
+      "name": "swiftui-animation",
+      "domain": "MOBILE",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MOBILE/swiftui-animation",
+      "last_audit": "2026-03-27T00:59:42.278773"
+    },
+    {
+      "name": "winapp-cli",
+      "domain": "MOBILE",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MOBILE/winapp-cli",
+      "last_audit": "2026-03-27T00:59:42.278774"
+    },
+    {
+      "name": "flutter",
+      "domain": "MOBILE",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MOBILE/flutter",
+      "last_audit": "2026-03-27T00:59:42.278775"
+    },
+    {
+      "name": "winmd-api-search",
+      "domain": "MOBILE",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MOBILE/winmd-api-search",
+      "last_audit": "2026-03-27T00:59:42.278776"
+    },
+    {
+      "name": "apple-appstore-reviewer",
+      "domain": "MOBILE",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MOBILE/apple-appstore-reviewer",
+      "last_audit": "2026-03-27T00:59:42.278777"
+    },
+    {
+      "name": "msstore-cli",
+      "domain": "MOBILE",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MOBILE/msstore-cli",
+      "last_audit": "2026-03-27T00:59:42.278778"
+    },
+    {
+      "name": "advanced-flutter-patterns",
+      "domain": "MOBILE",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MOBILE/advanced-flutter-patterns",
+      "last_audit": "2026-03-27T00:59:42.278779"
+    },
+    {
+      "name": "visionos-spatial-computing",
+      "domain": "MOBILE",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/MOBILE/visionos-spatial-computing",
+      "last_audit": "2026-03-27T00:59:42.278780"
+    },
+    {
+      "name": "skill-judge",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/skill-judge",
+      "last_audit": "2026-03-27T00:59:42.279057"
+    },
+    {
+      "name": "using-git-worktrees",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/using-git-worktrees",
+      "last_audit": "2026-03-27T00:59:42.279058"
+    },
+    {
+      "name": "clean-code",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/clean-code",
+      "last_audit": "2026-03-27T00:59:42.279059"
+    },
+    {
+      "name": "evaluating-skill-necessity",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/evaluating-skill-necessity",
+      "last_audit": "2026-03-27T00:59:42.279060"
+    },
+    {
+      "name": "code-exemplars-blueprint-generator",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/code-exemplars-blueprint-generator",
+      "last_audit": "2026-03-27T00:59:42.279061"
+    },
+    {
+      "name": "repo-story-time",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/repo-story-time",
+      "last_audit": "2026-03-27T00:59:42.279062"
+    },
+    {
+      "name": "centos-linux-triage",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/centos-linux-triage",
+      "last_audit": "2026-03-27T00:59:42.279063"
+    },
+    {
+      "name": "remember-interactive-programming",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/remember-interactive-programming",
+      "last_audit": "2026-03-27T00:59:42.279065"
+    },
+    {
+      "name": "arch-linux-triage",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/arch-linux-triage",
+      "last_audit": "2026-03-27T00:59:42.279065"
+    },
+    {
+      "name": "geofeed-tuner",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/geofeed-tuner",
+      "last_audit": "2026-03-27T00:59:42.279067"
+    },
+    {
+      "name": "suggest-awesome-github-copilot-skills",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/suggest-awesome-github-copilot-skills",
+      "last_audit": "2026-03-27T00:59:42.279068"
+    },
+    {
+      "name": "codex",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/codex",
+      "last_audit": "2026-03-27T00:59:42.279069"
+    },
+    {
+      "name": "folder-structure-blueprint-generator",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/folder-structure-blueprint-generator",
+      "last_audit": "2026-03-27T00:59:42.279070"
+    },
+    {
+      "name": "cli-mastery",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/cli-mastery",
+      "last_audit": "2026-03-27T00:59:42.279071"
+    },
+    {
+      "name": "lesson-learned",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/lesson-learned",
+      "last_audit": "2026-03-27T00:59:42.279072"
+    },
+    {
+      "name": "copilot-cli-quickstart",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/copilot-cli-quickstart",
+      "last_audit": "2026-03-27T00:59:42.279073"
+    },
+    {
+      "name": "skill-creator",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/skill-creator",
+      "last_audit": "2026-03-27T00:59:42.279074"
+    },
+    {
+      "name": "debian-linux-triage",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/debian-linux-triage",
+      "last_audit": "2026-03-27T00:59:42.279075"
+    },
+    {
+      "name": "suggest-awesome-github-copilot-instructions",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/suggest-awesome-github-copilot-instructions",
+      "last_audit": "2026-03-27T00:59:42.279076"
+    },
+    {
+      "name": "context-map",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/context-map",
+      "last_audit": "2026-03-27T00:59:42.279077"
+    },
+    {
+      "name": "architecture-blueprint-generator",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/architecture-blueprint-generator",
+      "last_audit": "2026-03-27T00:59:42.279078"
+    },
+    {
+      "name": "shuffle-json-data",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/shuffle-json-data",
+      "last_audit": "2026-03-27T00:59:42.279078"
+    },
+    {
+      "name": "reducing-entropy",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/reducing-entropy",
+      "last_audit": "2026-03-27T00:59:42.279079"
+    },
+    {
+      "name": "session-handoff",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/session-handoff",
+      "last_audit": "2026-03-27T00:59:42.279080"
+    },
+    {
+      "name": "make-skill-template",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/make-skill-template",
+      "last_audit": "2026-03-27T00:59:42.279081"
+    },
+    {
+      "name": "noob-mode",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/noob-mode",
+      "last_audit": "2026-03-27T00:59:42.279082"
+    },
+    {
+      "name": "naming-analyzer",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/naming-analyzer",
+      "last_audit": "2026-03-27T00:59:42.279083"
+    },
+    {
+      "name": "project-workflow-analysis-blueprint-generator",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/project-workflow-analysis-blueprint-generator",
+      "last_audit": "2026-03-27T00:59:42.279084"
+    },
+    {
+      "name": "sponsor-finder",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/sponsor-finder",
+      "last_audit": "2026-03-27T00:59:42.279085"
+    },
+    {
+      "name": "finnish-humanizer",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/finnish-humanizer",
+      "last_audit": "2026-03-27T00:59:42.279086"
+    },
+    {
+      "name": "copilot-instructions-blueprint-generator",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/copilot-instructions-blueprint-generator",
+      "last_audit": "2026-03-27T00:59:42.279087"
+    },
+    {
+      "name": "mentoring-juniors",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/mentoring-juniors",
+      "last_audit": "2026-03-27T00:59:42.279088"
+    },
+    {
+      "name": "transloadit-media-processing",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/transloadit-media-processing",
+      "last_audit": "2026-03-27T00:59:42.279089"
+    },
+    {
+      "name": "technology-stack-blueprint-generator",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/technology-stack-blueprint-generator",
+      "last_audit": "2026-03-27T00:59:42.279090"
+    },
+    {
+      "name": "generate-custom-instructions-from-codebase",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/generate-custom-instructions-from-codebase",
+      "last_audit": "2026-03-27T00:59:42.279091"
+    },
+    {
+      "name": "remember",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/remember",
+      "last_audit": "2026-03-27T00:59:42.279092"
+    },
+    {
+      "name": "ship-learn-next",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/ship-learn-next",
+      "last_audit": "2026-03-27T00:59:42.279093"
+    },
+    {
+      "name": "humanizer",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/humanizer",
+      "last_audit": "2026-03-27T00:59:42.279094"
+    },
+    {
+      "name": "subagent-driven-development",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/subagent-driven-development",
+      "last_audit": "2026-03-27T00:59:42.279095"
+    },
+    {
+      "name": "suggest-awesome-github-copilot-agents",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/suggest-awesome-github-copilot-agents",
+      "last_audit": "2026-03-27T00:59:42.279096"
+    },
+    {
+      "name": "memory-merger",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/memory-merger",
+      "last_audit": "2026-03-27T00:59:42.279097"
+    },
+    {
+      "name": "fedora-linux-triage",
+      "domain": "OS",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/OS/fedora-linux-triage",
+      "last_audit": "2026-03-27T00:59:42.279098"
+    },
+    {
+      "name": "dataverse-python-advanced-patterns",
+      "domain": "DATA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DATA/dataverse-python-advanced-patterns",
+      "last_audit": "2026-03-27T00:59:42.279292"
+    },
+    {
+      "name": "power-bi-report-design-consultation",
+      "domain": "DATA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DATA/power-bi-report-design-consultation",
+      "last_audit": "2026-03-27T00:59:42.279293"
+    },
+    {
+      "name": "database-schema-designer",
+      "domain": "DATA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DATA/database-schema-designer",
+      "last_audit": "2026-03-27T00:59:42.279294"
+    },
+    {
+      "name": "ef-core",
+      "domain": "DATA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DATA/ef-core",
+      "last_audit": "2026-03-27T00:59:42.279295"
+    },
+    {
+      "name": "power-bi-performance-troubleshooting",
+      "domain": "DATA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DATA/power-bi-performance-troubleshooting",
+      "last_audit": "2026-03-27T00:59:42.279296"
+    },
+    {
+      "name": "sql-code-review",
+      "domain": "DATA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DATA/sql-code-review",
+      "last_audit": "2026-03-27T00:59:42.279297"
+    },
+    {
+      "name": "xlsx",
+      "domain": "DATA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DATA/xlsx",
+      "last_audit": "2026-03-27T00:59:42.279298"
+    },
+    {
+      "name": "sql-optimization",
+      "domain": "DATA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DATA/sql-optimization",
+      "last_audit": "2026-03-27T00:59:42.279299"
+    },
+    {
+      "name": "power-bi-dax-optimization",
+      "domain": "DATA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DATA/power-bi-dax-optimization",
+      "last_audit": "2026-03-27T00:59:42.279300"
+    },
+    {
+      "name": "cosmosdb-datamodeling",
+      "domain": "DATA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DATA/cosmosdb-datamodeling",
+      "last_audit": "2026-03-27T00:59:42.279301"
+    },
+    {
+      "name": "bigquery-pipeline-audit",
+      "domain": "DATA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DATA/bigquery-pipeline-audit",
+      "last_audit": "2026-03-27T00:59:42.279302"
+    },
+    {
+      "name": "powerbi-modeling",
+      "domain": "DATA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DATA/powerbi-modeling",
+      "last_audit": "2026-03-27T00:59:42.279303"
+    },
+    {
+      "name": "snowflake-semanticview",
+      "domain": "DATA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DATA/snowflake-semanticview",
+      "last_audit": "2026-03-27T00:59:42.279304"
+    },
+    {
+      "name": "datanalysis-credit-risk",
+      "domain": "DATA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DATA/datanalysis-credit-risk",
+      "last_audit": "2026-03-27T00:59:42.279305"
+    },
+    {
+      "name": "dataverse-python-usecase-builder",
+      "domain": "DATA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DATA/dataverse-python-usecase-builder",
+      "last_audit": "2026-03-27T00:59:42.279306"
+    },
+    {
+      "name": "dataverse-python-production-code",
+      "domain": "DATA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DATA/dataverse-python-production-code",
+      "last_audit": "2026-03-27T00:59:42.279307"
+    },
+    {
+      "name": "postgresql-optimization",
+      "domain": "DATA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DATA/postgresql-optimization",
+      "last_audit": "2026-03-27T00:59:42.279308"
+    },
+    {
+      "name": "fabric-lakehouse",
+      "domain": "DATA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DATA/fabric-lakehouse",
+      "last_audit": "2026-03-27T00:59:42.279309"
+    },
+    {
+      "name": "power-bi-model-design-review",
+      "domain": "DATA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DATA/power-bi-model-design-review",
+      "last_audit": "2026-03-27T00:59:42.279310"
+    },
+    {
+      "name": "dataverse-python-quickstart",
+      "domain": "DATA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DATA/dataverse-python-quickstart",
+      "last_audit": "2026-03-27T00:59:42.279311"
+    },
+    {
+      "name": "postgresql-code-review",
+      "domain": "DATA",
+      "path": "/Users/pw/.gemini/antigravity/Skills Master/.agents/skills/DATA/postgresql-code-review",
+      "last_audit": "2026-03-27T00:59:42.279312"
+    }
+  ]
+}
