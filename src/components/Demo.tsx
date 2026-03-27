@@ -4,6 +4,10 @@ import { FullScreenScrollFX, type FullScreenFXAPI } from "./ui/full-screen-scrol
 import { SovereignInstallation } from "./ui/sovereign-installation";
 import { GlobalHealthPulse } from "./GlobalHealthPulse";
 import Footer from "./ui/animated-footer";
+import { gsap } from "gsap";
+import { ScrollTrigger } from "gsap/ScrollTrigger";
+
+gsap.registerPlugin(ScrollTrigger);
 import { X, ExternalLink, ShieldCheck, Zap } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 
