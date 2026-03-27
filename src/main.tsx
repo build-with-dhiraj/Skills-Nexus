@@ -9,10 +9,10 @@ const rootElement = document.getElementById('root');
 if (!rootElement) {
   console.error("❌ Root element not found!");
 } else {
-  console.log("✅ Root element secured. Mounting React...");
+  console.log("✅ Root element secured. Mounting Isolation Test...");
   ReactDOM.createRoot(rootElement).render(
-    <React.StrictMode>
-      <App />
-    </React.StrictMode>,
+    <h1 style={{ color: 'white', padding: '100px', fontSize: '5rem' }}>
+      V1.0.3 ISOLATION TEST: RENDER SUCCESS
+    </h1>
   )
 }
